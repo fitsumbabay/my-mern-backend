@@ -1,5 +1,13 @@
 # my-mern-backend
 
+## Usage Instructions
+1. Clone the repository:
+   git clone https://github.com/fitsumbabay/my-mern-backend
+
+## Live Site
+Check out the live version of the application at: 
+
+
 API Documentation
 Overview
 This is a simple API for managing items and fetching weather information. The API supports operations for creating, reading items, and retrieving weather data for specific cities.
