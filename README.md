@@ -5,7 +5,7 @@
    git clone https://github.com/fitsumbabay/my-mern-backend
 
 ## Live Site
-Check out the live version of the application at: 
+Check out the live version of the application at: https://my-mern-backend-2ozr.onrender.com/
 
 
 API Documentation
