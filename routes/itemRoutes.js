@@ -43,8 +43,6 @@ router.get("/:id", async (req, res) => {
 
 // UPDATE: Update an existing item
 router.put("/:id", async (req, res) => {
-    //   const itemId = req.params.id;
-    //   console.log(`ID being processed: ${itemId}`); 
   try {
     const item = await Item.findByIdAndUpdate(req.params.id, req.body, {
       new: true,

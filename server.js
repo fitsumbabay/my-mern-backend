@@ -22,7 +22,7 @@ app.use('/api', weatherRoutes); //  weather routes
 
 
 app.get('/', (req, res) => {
-    res.send('Hello from the API!');
+    res.send(" Greetings from the backend! ☀️");
 });
 
 // Error handling middleware
